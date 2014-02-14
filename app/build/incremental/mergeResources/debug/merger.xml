@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="E:\WebDrive\android-studio\StackWidget\app\src\main\res" >
+            <file
+                name="icon"
+                path="E:\WebDrive\android-studio\StackWidget\app\src\main\res\drawable-hdpi\icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="E:\WebDrive\android-studio\StackWidget\app\src\main\res\drawable-ldpi\icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="E:\WebDrive\android-studio\StackWidget\app\src\main\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="preview"
+                path="E:\WebDrive\android-studio\StackWidget\app\src\main\res\drawable-nodpi\preview.png"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="widget_item_background"
+                path="E:\WebDrive\android-studio\StackWidget\app\src\main\res\drawable-nodpi\widget_item_background.xml"
+                qualifiers="nodpi"
+                type="drawable" />
+            <file
+                name="widget_item"
+                path="E:\WebDrive\android-studio\StackWidget\app\src\main\res\layout\widget_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="widget_layout"
+                path="E:\WebDrive\android-studio\StackWidget\app\src\main\res\layout\widget_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="E:\WebDrive\android-studio\StackWidget\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="widget_margin" >8dp
+                </dimen>
+            </file>
+            <file
+                path="E:\WebDrive\android-studio\StackWidget\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="empty_view_text" >This is the empty view
+                </string>
+            </file>
+            <file
+                path="E:\WebDrive\android-studio\StackWidget\app\src\main\res\values-v14\dimens.xml"
+                qualifiers="v14" >
+                <dimen name="widget_margin" >0dp
+                </dimen>
+            </file>
+            <file
+                name="stackwidgetinfo"
+                path="E:\WebDrive\android-studio\StackWidget\app\src\main\res\xml\stackwidgetinfo.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="E:\WebDrive\android-studio\StackWidget\app\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="E:\WebDrive\android-studio\StackWidget\app\src\debug\res" />
+    </dataSet>
+
+</merger>

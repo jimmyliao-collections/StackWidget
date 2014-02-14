@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/E:/WebDrive/android-studio/StackWidget/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="widget_margin">8dp</dimen>
+    <!-- From: file:/E:/WebDrive/android-studio/StackWidget/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="empty_view_text">This is the empty view</string>
+
+</resources>
